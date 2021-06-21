@@ -1,8 +1,6 @@
-[submodule "src/mbed/mbed-os"]
-	path = src/mbed/external/mbed-os
-	url = https://github.com/ARMmbed/mbed-os.git
-	branch = mbed-os-5.12.4
-[submodule "src/mbed/nanopb"]
-	path = src/mbed/external/nanopb
+[submodule "src/external/nanopb"]
+	path = src/external/nanopb
 	url = https://github.com/nanopb/nanopb
-	branch = nanopb-0.3.9.3
+[submodule "src/external/mbed-os"]
+	path = src/external/mbed-os
+	url = https://github.com/ARMmbed/mbed-os
