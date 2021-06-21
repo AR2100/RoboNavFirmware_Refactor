@@ -3,4 +3,4 @@
 	url = https://github.com/nanopb/nanopb
 [submodule "src/external/mbed-os"]
 	path = src/external/mbed-os
-	url = https://github.com/ARMmbed/mbed-os
+	url = https://github.com/ARMmbed/mbed-os.git
